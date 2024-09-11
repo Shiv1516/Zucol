@@ -23,12 +23,12 @@ export default function Home() {
                   sustainable and luxurious lifestyle.
                 </span>{" "}
                 Nestled in Sector 54, Gurgaon, its strategic location ensures
-                convenience and access to the city's putse.{" "}
+                convenience and access to the city&#39;s putse.{" "}
                 <span className="fc2 wsnr fw6">
                   Experience architectural superiority
                 </span>{" "}
-                with flawless design, where every detail reflects DLF's legacy
-                in real estate development.
+                with flawless design, where every detail reflects DLF&#39;s
+                legacy in real estate development.
               </p>
             </div>
             <div className="design-box-text flx25 plr24 zi3 pr">
@@ -44,7 +44,7 @@ export default function Home() {
                 exclusivity. Nestled in Sector 54, Gurgaon, its strategic
                 location ensures .
                 <span className="fc2 fw6">
-                  convenience and access to the city's putse
+                  convenience and access to the city&#39;s putse
                 </span>
               </p>
             </div>
